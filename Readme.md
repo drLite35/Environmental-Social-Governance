@@ -1,4 +1,4 @@
-# ESG Monitoring and Questionnaire
+# ESG Monitoring and Questionnaire - Practice School Project.
 
 ESG Monitoring and Questionnaire is a Python program that allows users to assess and monitor the environmental, social, and governance (ESG) aspects of companies. It presents a set of questions related to ESG factors and provides outputs based on the user's inputs.
 
@@ -23,3 +23,9 @@ ESG Monitoring and Questionnaire is a Python program that allows users to assess
 
    ```shell
    pip install tkinter
+5. Run the Program using following command.
+
+   ```shell
+   python3 -u ESG_Ques_Final.py
+   ```
+
